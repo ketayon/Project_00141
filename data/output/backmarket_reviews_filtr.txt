@@ -1,0 +1,50 @@
+{1: "Absolutely chuffed with this order!"}
+{1: 'I am more than happy.'}
+{1: 'Excellent condition and arrived very efficiently.'}
+{1: 'All works perfectly no problems!'}
+{1: 'The online buying process was easy.'}
+{1: 'Excellent condition.'}
+{1: 'Excellent service and quality goods.'}
+{1: "Very happy."}
+{1: "The experience was quick and effortless."}
+{1: "My needs at a price I could afford. I ordered it and it arrived promptly."}
+{1: 'I’m really pleased.'}
+{1: 'In any case, very happy with the purchase!'}
+{1: 'I will highly recommend and will consider to buy my next phones in this website.'}
+{1: 'Very happy with my new iPhone.'}
+{1: 'Great quality product and received it on time.'}
+{1: 'was the best decision I have ever made.'}
+{1: 'Unexpected quality.'}
+{1: "I would recommend this site to anyone looking to purchase a refurbished item."}
+{1: 'Would definitely recommend buying a refurbished phone from back market'}
+{1: 'AMAZING!!'}
+{1: 'Excellent condition.'}
+{1: 'So happy with my new phone.'}
+{1: "Thank you very much."}
+{1: 'Anyone who is looking at buying this, go for it as it’s the best purchase I’ve ever made.'}
+{1: 'Like everyone else.'}
+{1: 'I definitely recommend people to get in touch with Back Market.'}
+{1: 'Great service, easy to use website.'}
+{1: 'Everything works and look amazingly like out of the box.'}
+{1: 'Phone arrived quickly.'}
+{1: 'I am beyond impressed. Ordered it yesterday and it arrived early this morning.'}
+{1: 'Battery health 100%.'}
+{1: 'Super quick delivery.'}
+{1: 'Their website is really simple to navigate.'}
+{1: "I’m incredibly happy."}
+{1: 'Very good'}
+{1: 'Very good'}
+{1: 'I love the airpods and the delivery process was fast and convenient'}
+{1: 'It works amazing!!!'}
+{1: 'Todo perfwcto'}
+{1: 'Good'}
+{1: 'It’s good'}
+{1: 'Arrived in the space of 2 days.'}
+{1: 'Product in good condition."}
+{1: 'Perfect condition.'}
+{1: 'Everything works great'}
+{1: 'Brand new quality product!'}
+{0: "The screen was separated from the body of the phone."}
+{0: 'The display does not react in the upper and lower areas.'}
+{0: 'Absolutely poor service'}
+{0: 'There are no accessories in my parcel.'}

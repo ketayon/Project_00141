@@ -1,0 +1,14 @@
+{1: 'I love the airpods and the delivery process was fast and convenient'}
+{1: 'It works amazing!!!'}
+{1: 'Todo perfwcto'}
+{1: 'Good'}
+{1: 'Its good'}
+{1: 'Arrived in the space of 2 days.'}
+{1: 'Product in good condition.'}
+{1: 'Perfect condition.'}
+{0: 'Bad service'}
+{1: 'Brand new quality product!'}
+{0: "Broken screen."}
+{0: 'The display does not react in the upper and lower areas.'}
+{0: 'Absolutely poor service'}
+{0: 'There are no accessories in my parcel.'}
