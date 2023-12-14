@@ -46,7 +46,7 @@ For a comparison between the hybrid and quantum case, although the quantum case 
 ![Screenshot from 2023-11-03 00-52-24](https://github.com/hosen20/quantumopenai_QNLP_internship_project/assets/84079430/74be433d-4bc7-4752-998a-f3bfa3b0fd68)
 
 
-[QuantumAI.pdf](https://github.com/ketayon/Project_00141/files/13673403/QuantumAI.pdf)
+! [QuantumAI.pdf](https://github.com/ketayon/Project_00141/files/13673403/QuantumAI.pdf)
 
 
 
